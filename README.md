@@ -35,9 +35,9 @@ Open `sns-gas-exploration-risk.ipynb` in Jupyter and choose Kernel, then Restart
 - Chance of success is treated as a known number.
 - The method is the point, not the specific values.
 
-  ## Charts
+## Charts
 
-![NPV distribution](figures/npv_distribution.png)
-![Tornado chart](figures/tornado.png)
-![EMV against chance of success](figures/emv_vs_cos.png)
+![NPV distribution](npv_distribution.png)
+![Tornado chart](tornado.png)
+![EMV against chance of success](emv_vs_cos.png)
 
