@@ -34,3 +34,10 @@ Open `sns-gas-exploration-risk.ipynb` in Jupyter and choose Kernel, then Restart
 - A dry hole is assumed to cost the full well cost.
 - Chance of success is treated as a known number.
 - The method is the point, not the specific values.
+
+  ## Charts
+
+![NPV distribution](figures/npv_distribution.png)
+![Tornado chart](figures/tornado.png)
+![EMV against chance of success](figures/emv_vs_cos.png)
+
